@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+<menu>
+        <food>
+            <name>Рулет с изюмом</name>
+            <price>15</price>
+            <weight>75</weight>
+        </food>
+        <food>
+            <name>Пирог с повидлом</name>
+            <price>13</price>
+            <weight>60</weight>
+        </food>
+        <food>
+            <name>Пирог с яблоками</name>
+            <price>13</price>
+            <weight>60</weight>
+        </food>
+        <food>
+            <name>Салат Изюминка</name>
+            <price>35</price>
+            <weight>100</weight>
+        </food>
+        <food>
+            <name>Салат Лукошко</name>
+            <price>40</price>
+            <weight>100</weight>
+        </food>
+        <food>
+            <name>Салат Капустный с помидором</name>
+            <price>19</price>
+            <weight>100</weight>
+        </food>
+        <food>
+            <name>Суп харчо с говядиной</name>
+            <price>31</price>
+            <weight>250</weight>
+        </food>
+        <food>
+            <name>Суп куриный с грибами</name>
+            <price>34</price>
+            <weight>250</weight>
+        </food>
+        <food>
+            <name>Суп болгарский вегетарианский</name>
+            <price>21</price>
+            <weight>250</weight>
+        </food>
+        <food>
+            <name>Рыбное филе с помидоркой</name>
+            <price>54</price>
+            <weight>80</weight>
+        </food>
+        <food>
+            <name>Печень  по-королевски</name>
+            <price>54</price>
+            <weight>150</weight>
+        </food>
+        <food>
+            <name>Печень  по-королевски</name>
+            <price>68</price>
+            <weight>80</weight>
+        </food>
+        <food>
+            <name>Греча с маслом</name>
+            <price>17</price>
+            <weight>170</weight>
+        </food>
+        <food>
+            <name>Макароны отварные</name>
+            <price>15</price>
+            <weight>170</weight>
+        </food>
+        <food>
+            <name>Рис отварной с маслом</name>
+            <price>16</price>
+            <weight>170</weight>
+        </food>
+    </menu>
+</project>
